@@ -28,6 +28,7 @@ public class MI3A_409630828_0907_HWK1_01 {
 
     public static void main(String[] args) {
         Point p1 = new Point(), p2 = new Point(), p3 = new Point();
+        
         p1.set(5, 3);
         p2.set(3, 0);
         p3.set(4, 1);
